@@ -196,7 +196,7 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
       - [HTTPS](#https)
       - [MITM Attack](#mitm-attack)
       - [Stealing Sessions](#stealing-sessions)
-    - [\[↑\] General Questions:](#-general-questions)
+    - [\[↑\] General Questions: Answers ](#-general-questions-answers-)
       - [Why FP?](#why-fp)
       - [Browsers](#browsers)
       - [TCP Sockets](#tcp-sockets)
@@ -210,7 +210,7 @@ Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Deve
       - [TCP and HTTP](#tcp-and-http)
       - [Client-Side vs Server-Side](#client-side-vs-server-side)
       - [Reliable and non-reliable channels](#reliable-and-non-reliable-channels)
-    - [\[↑\] Open Questions:](#-open-questions)
+    - [\[↑\] Open Questions: Answers ](#-open-questions-answers-)
       - [Resistance to Change](#resistance-to-change)
       - [Threading ELI5](#threading-eli5)
       - [Innovation and Predictability](#innovation-and-predictability)
@@ -921,7 +921,7 @@ What's a man-in-the-middle Attack, and why does HTTPS help protect against it?
 
 How can you prevent the user's session from being stolen? Chances are you remember what session or cookie hijacking is, otherwise let's read its Wikipedia page together.
 
-### [[↑]](#toc) <a name='general'>General Questions:</a>
+### [[↑]](#toc) <a name='general'>General Questions: [Answers](./answers/General%20Questions/) </a>
 
 #### Why FP?
 
@@ -976,7 +976,7 @@ What are the tradeoffs of client-side rendering vs. server-side rendering?
 
 How could you develop a reliable communication protocol based on a non-reliable one?
 
-### [[↑]](#toc) <a name='open'>Open Questions:</a>
+### [[↑]](#toc) <a name='open'>Open Questions: [Answers](./answers/Open%20Questions/) </a>
 
 #### Resistance to Change
 

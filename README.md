@@ -931,6 +931,7 @@ Why does functional programming matter? When should a functional programming lan
 #### Browsers
 
 How do companies like Microsoft, Google, Opera and Mozilla profit from their browsers?
+[Answer](./answers/General%20Questions/howBrowserMakeMoney.md)
 
 #### TCP Sockets
 

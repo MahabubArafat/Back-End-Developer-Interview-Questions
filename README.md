@@ -925,12 +925,12 @@ How can you prevent the user's session from being stolen? Chances are you rememb
 
 #### Why FP?
 
-Why does functional programming matter? When should a functional programming language be used?
+Why does functional programming matter? When should a functional programming language be used? </br>
 [Answer](./answers/General%20Questions/functional_programming.md)
 
 #### Browsers
 
-How do companies like Microsoft, Google, Opera and Mozilla profit from their browsers?
+How do companies like Microsoft, Google, Opera and Mozilla profit from their browsers? </br>
 [Answer](./answers/General%20Questions/howBrowserMakeMoney.md)
 
 #### TCP Sockets

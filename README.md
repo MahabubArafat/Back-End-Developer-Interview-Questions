@@ -1,28 +1,30 @@
 # Back-End Developer Interview Questions
 
+## Some Thoughts by the original creator of this repo:
+
 This page has been translated to [Chinese](https://github.com/monklof/Back-End-Developer-Interview-Questions) by [monklof](https://github.com/monklof).
 
-I started writing down this list as my personal notes of topics I discussed with colleagues and friends, and that I wanted to deepen...
+> I started writing down this list as my personal notes of topics I discussed with colleagues and friends, and that I wanted to deepen...
+> I'm not a big fan of asking technical questions in job interviews: I rather prefer to sit together with candidates in front of some real code, hands on the keyboard, facing a real problem, and to have a full day of pair programming, hopefully rotating with all the other team members. It is one of the best opportunities to know each others' style and to let candidates know some details about their future job.
+> Yet, I feel some categories of technical questions could be a good starting point to begin an engaging conversation.
+> This repo collects a number of back-end related questions that can be used when vetting potential candidates. It is by no means recommended to use every single question on the same candidate: that would take hours, and would have no sense at all, as they cover a too broad set of topics for a single developer's to possibly know. Browse the section you find more relevant for your context, and pick the questions that give you more ideas on the conversation to have.
+> This project is admittedly inspired by [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by [@darcyclarke](https://github.com/darcyclarke)
 
-I'm not a big fan of asking technical questions in job interviews: I rather prefer to sit together with candidates in front of some real code, hands on the keyboard, facing a real problem, and to have a full day of pair programming, hopefully rotating with all the other team members. It is one of the best opportunities to know each others' style and to let candidates know some details about their future job.
+## Where are the answers? [Here](./answers/)
 
-Yet, I feel some categories of technical questions could be a good starting point to begin an engaging conversation.
+The Author didn't include any.<br/>
 
-This repo collects a number of back-end related questions that can be used when vetting potential candidates. It is by no means recommended to use every single question on the same candidate: that would take hours, and would have no sense at all, as they cover a too broad set of topics for a single developer's to possibly know. Browse the section you find more relevant for your context, and pick the questions that give you more ideas on the conversation to have.
+> Most of the questions are open-ended, and some of them just don't have a _right_ or a _wrong_ answer. On the contrary, they are intended to be used as the starting point for a conversation that hopefully tells you more about the person's capabilities than a straight answer would. Personally, I would even choose the questions whose answers are not yet clear to me.
 
-This project is admittedly inspired by [Front-end Job Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions) by [@darcyclarke](https://github.com/darcyclarke)
+But For a beginer who is looking to prepare for interviews, he should have an understanding of this topics. So I am gonna collect what is considered as answer by general norms. They might have different in one's view, but I am collecting what the society deems it to be the answers today. These questions might have different answers in near future, But who am I to judge? There is no right or wrong answers, they are all just a summary or gist of the topic, or to be specific, my understanding of these topics. Feel free to make correction so that I can learn the correct answers.
 
-## Where are the answers?
-
-I didn't include any.<br/>
-Most of the questions are open-ended, and some of them just don't have a _right_ or a _wrong_ answer. On the contrary, they are intended to be used as the starting point for a conversation that hopefully tells you more about the person's capabilities than a straight answer would. Personally, I would even choose the questions whose answers are not yet clear to me.
-
-Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions/discussions).
+Feel free to open a [Discussion](https://github.com/mahabubarafat/Back-End-Developer-Interview-Questions/discussions).
 
 ## <a name='toc'>Table of Contents</a>
 
 - [Back-End Developer Interview Questions](#back-end-developer-interview-questions)
-  - [Where are the answers?](#where-are-the-answers)
+  - [Some Thoughts by the original creator of this repo:](#some-thoughts-by-the-original-creator-of-this-repo)
+  - [Where are the answers? Here](#where-are-the-answers-here)
   - [Table of Contents](#table-of-contents)
     - [\[↑\] Questions about Design Patterns:](#-questions-about-design-patterns)
       - [Globals Are Evil](#globals-are-evil)
